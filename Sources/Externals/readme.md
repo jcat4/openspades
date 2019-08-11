@@ -61,6 +61,9 @@ Externals
 |   +---ogg/
 |   |   \---(All libogg headers)
 |   |
+|   +---opus/
+|   |   \---(All libopus/libopusfile/libogg headers)
+|   |
 |   \---freetype/
 |       \---(All FreeType 2.7 headers)
 |
