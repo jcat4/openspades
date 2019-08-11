@@ -9,6 +9,7 @@ Libraries go in the 'lib' folder, without any subfolders.
 
 This should be the resulting directory structure:
 
+```
 Externals
 |   readme.txt (this file)
 |
@@ -34,6 +35,7 @@ Externals
 |
 \---lib/
         (All libs here)
+```
 
 You may not need to hunt and compile the headers and libraries all by yourself:
  * There are pre-compiled zip files containing all required files for some versions of Visual Studio
@@ -51,6 +53,7 @@ https://dl.dropboxusercontent.com/u/37804131/OpenSpades-Externals-Windows.zip
 C++ headers go in the 'include' folder, as shown in the file tree below.
 Libraries and frameworks go in the 'lib' folder, without any subfolders.
 
+```
 Externals
 |   readme.txt (this file)
 |
@@ -69,6 +72,7 @@ Externals
 |
 \---lib/
         (All libs here)
+```
 
 The following URL provides a pre-compiled zip file containing all required files.
 
